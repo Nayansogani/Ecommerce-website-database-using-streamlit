@@ -19,3 +19,5 @@ def delete():
     df2 = pd.DataFrame(new_result, columns=['Seller_id','s_pass','Name','Address'])
     with st.expander("Updated data"):
         st.dataframe(df2)
+
+        hvfyjdfyjf

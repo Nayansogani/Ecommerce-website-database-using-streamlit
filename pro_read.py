@@ -10,4 +10,4 @@ def pr_read():
     df = pd.DataFrame(result, columns=['Product_id','Type','Color','P_Size','Gender','Commission','Cost','Quantity','Seller_id'])
     with st.expander("View all Products"):
         st.dataframe(df)
-    
+    hgvujfjhf

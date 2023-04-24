@@ -10,4 +10,4 @@ def paym_read():
     df = pd.DataFrame(result, columns=['payment_id','payment_date','Payment_type','Customer_id','Cart_id','total_amount'])
     with st.expander("View all Payment"):
         st.dataframe(df)
-    
+    jbjuvkujgjug
